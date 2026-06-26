@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">enriquephl's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 167, Total Commits  (last year) : 1153, Total PRs: 104, Total Issues: 44, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 166, Total Commits  (last year) : 1153, Total PRs: 104, Total Issues: 44, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 68.9883442672383;
+        stroke-dashoffset: 69.07771084440138;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >167</text>
+      >166</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
